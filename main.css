@@ -1,0 +1,79 @@
+/* CSS for tribute page */ 
+
+body{
+    margin: 0rem;
+    padding: 0rem;
+    background: no-repeat;
+    background: rgb(5, 129, 92);
+}
+
+div{
+    background: radial-gradient(rgb(6, 189, 134), rgb(0, 163, 114), rgb(1, 80, 67));
+    margin-top: 0rem;
+    padding-top: 0rem;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    text-align: center;
+    border: none;
+}
+
+h1{
+    padding-left: 1rem;
+}
+
+img{
+    padding: 1rem;
+}
+
+h2{
+    text-align: center;
+    border-bottom: aqua solid;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    margin-left: 30rem;
+    margin-right: 30rem;
+    transition: ease-in;
+    transition-duration: 1s;
+}
+
+p{
+    text-align: center;
+    font-size: 1.2rem;
+    border-bottom: aqua solid;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding-bottom: 3rem;
+}
+
+.section2{
+    display: flex;
+    flex-direction: row nowrap;
+    text-align: center;
+}
+
+.section3{
+    display: flex;
+    flex-direction: row nowrap;
+    text-align: center;
+}
+
+.career{
+    margin-left: 0rem;
+}
+
+.life{
+    margin-left: 0rem;
+}
+
+.image{
+    margin-right:  0rem;
+    padding-right: 0rem;
+    padding-bottom: 3rem;
+}
